@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.8.2](https://github.com/aubepkg/aube/compare/aube-lockfile-v2.8.1...aube-lockfile-v2.8.2) - 2026-10-21
+
+### Fixed
+
+- *(lockfile)* write yarn.lock v1 in yarn's own layout on re-resolve ([#1802](https://github.com/aubepkg/aube/pull/1802))
+
 ## [2.8.1](https://github.com/aubepkg/aube/compare/aube-lockfile-v2.8.0...aube-lockfile-v2.8.1) - 2026-10-20
 
 ### Fixed

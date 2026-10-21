@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.8.2](https://github.com/aubepkg/aube/compare/v2.8.1...v2.8.2) - 2026-10-21
+
+### Fixed
+
+- *(outdated)* stop blaming prerelease latest on minimumReleaseAge ([#1807](https://github.com/aubepkg/aube/pull/1807))
+
 ## [2.8.1](https://github.com/aubepkg/aube/compare/v2.8.0...v2.8.1) - 2026-10-20
 
 ### Fixed
